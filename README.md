@@ -5,7 +5,7 @@ A **simple** python programe for course selection
 * cqu选课真的挺狗屎的
 * cqu选课真的挺狗屎的
 
-## 以后目标
+## 未来展望！
 我指导学弟写出的**第一个**具有实际意义的小脚本
 * 做大做强
 
